@@ -34,6 +34,11 @@ body{
 .t-white {
 	color: white;
 	font-size: 14px;
-	/*margin: 8px;*/
 	font-weight: 500;
+}
+.left {
+	margin-left: 25px;
+}
+.right {
+	margin-right: 25px;
 }
