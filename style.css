@@ -21,6 +21,10 @@ body{
 	height: 30px;
 	width: 30px;
 }
+.balance {
+	height: 30px;
+	margin-left: 25%;
+}
 .f-right {
 	float: right;
 }
@@ -31,6 +35,6 @@ body{
 	color: white;
 	font-size: 14px;
 	margin: 8px;
-	font-size: 19px;
+	font-size: 12px;
 	font-weight: 500;
 }
