@@ -17,13 +17,13 @@ body{
 	background-color: white;
 }
 .icons {
-	margin: 7px;
+	margin: 5px;
 	height: 30px;
 	width: 30px;
 }
 .balance {
 	height: 30px;
-	margin-left: 25%;
+	margin-left: 20%;
 }
 .f-right {
 	float: right;
@@ -34,7 +34,6 @@ body{
 .t-white {
 	color: white;
 	font-size: 14px;
-	margin: 8px;
-	font-size: 12px;
+	/*margin: 8px;*/
 	font-weight: 500;
 }
