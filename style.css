@@ -16,6 +16,10 @@ body{
 	width: 100%;
 	background-color: white;
 }
+.sc {
+	margin-left: 14%;
+	height: 90%;
+}
 .icons {
 	margin: 5px;
 	height: 30px;
