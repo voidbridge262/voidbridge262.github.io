@@ -1,7 +1,6 @@
 body{
 	margin: 0px;
-	/*width: 829px;
-	height: 526px;*/
+	/*git */
 }
 .header {
 	height: 12%;
@@ -28,7 +27,7 @@ body{
 }
 .balance {
 	height: 30px;
-	margin-left: 15%;
+	margin-left: 20%;
 }
 .f-right {
 	float: right;
