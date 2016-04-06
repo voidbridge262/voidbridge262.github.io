@@ -12,7 +12,10 @@ body {
 	height: 6%;
 }
 .sc-p {
-	height: 78%;
+	height: 39%;
+}
+.sc-controls {
+	height: 39%;
 }
 .m-controls {
 	background-color: black;
