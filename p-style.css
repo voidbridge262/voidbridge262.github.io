@@ -1,21 +1,40 @@
 body {
-	width: 385px;
+	/*width: 385px;*/
 	color: white;
 }
 .pane {
-	width: 385px;
 	background-color: #3b3c3e;
 }
 .pane-mid {
 	height: 40px;
 }
 .pane-top-bot {
-	height: 5%;
+	height: 6%;
 }
 .sc-p {
-	width: 385px;
 	height: 260px;
 }
 .m-controls {
 	background-color: black;
+}
+.icons {
+	margin: 3px;
+	height: 30px;
+	width: 30px;
+}
+.f-right {
+	float: right;
+}
+.f-left{
+	float: left;
+}
+.left {
+	margin-left: 15px;
+}
+.right {
+	margin-right: 15px;
+}
+.balance {
+	height: 29px;
+	margin: 3px 3px 3px 15px;
 }
