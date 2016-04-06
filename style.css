@@ -1,5 +1,7 @@
 body{
 	margin: 0px;
+	width: 829px;
+	height: 526px;
 }
 .header {
 	height: 12%;
@@ -46,3 +48,5 @@ body{
 .right {
 	margin-right: 25px;
 }
+
+/*============================================*/
