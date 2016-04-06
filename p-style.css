@@ -6,13 +6,13 @@ body {
 	background-color: #3b3c3e;
 }
 .pane-mid {
-	height: 40px;
+	height: 10%;
 }
 .pane-top-bot {
 	height: 6%;
 }
 .sc-p {
-	height: 260px;
+	height: 78%;
 }
 .m-controls {
 	background-color: black;
