@@ -1,0 +1,21 @@
+body {
+	width: 385px;
+	color: white;
+}
+.pane {
+	width: 385px;
+	background-color: #3b3c3e;
+}
+.pane-mid {
+	height: 40px;
+}
+.pane-top-bot {
+	height: 30px;
+}
+.sc-p {
+	width: 385px;
+	height: 260px;
+}
+.m-controls {
+	background-color: black;
+}
