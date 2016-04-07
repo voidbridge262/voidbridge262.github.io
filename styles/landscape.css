@@ -1,0 +1,72 @@
+/*===================================screen===================================*/
+.header {
+	height: 13%;
+	width: 100%;
+	background-color: #f0f0f0;
+}
+.screen {
+	height: 80%;
+	width: 100%;
+	background-color: black;
+}
+.footer {
+	height: 8%;
+	width: 100%;
+	background-color: #3b3c3e;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+/*===================================icon-bg===================================*/
+.icon-menu {
+	background-image: url("./images/menu_button_01.png");
+  background-size: 30px 30px;
+}
+.icon-expand {
+  background-image: url("./images/expand_arrow_01.png");
+  background-size: 30px 30px;
+}
+.icon-clock {
+	background-image: url("./images/clock_button_01.png");
+	background-size: 30px 30px;
+}
+.icon-sound {
+	background-image: url("./images/sound_button_01.png");
+	background-size: 30px 30px;	
+}
+.balance-bg {
+	background-image: url("./images/balance-bg.png");
+	background-size: 200px 30px;
+}
+/*==================================bal-text-prop=================================*/
+.bal {
+	width: 200px;
+	height: 30px;
+	margin: 5px 5px 5px 5px;
+}
+.bal-text {
+	color: white;
+	font-size: 16px;
+	font-weight: 100;
+	padding: 3px 0px 0px 43px;
+}
+/*===================================icon-prop===================================*/
+.icon {
+    height: 30px;
+    width: 30px;
+    border-radius: 3px;
+    margin: 5px 5px 5px 5px;
+}
+/*===================================icon-alignment==============================*/
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+/*======================================text-prop=================================*/
+.text {
+	margin: 10px 0px 0px 10px;
+	font-size: 16px;
+	color: white;
+	font-weight: 100;
+}
