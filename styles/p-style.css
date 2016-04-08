@@ -4,7 +4,7 @@
 	background-color: #3b3c3e; 
 }
 .pane-mid {
-	height: 8%;
+	height: 7%;
 	background-color: #3b3c3e;
 }
 .reels {
@@ -16,7 +16,7 @@
 	width: 100%;
 }
 .controls {
-	height: 43%;
+	height: 44%;
 	background-color: black;
 }
 .controls-img {
@@ -50,7 +50,7 @@
 	width: 400px;
 }
 .info {
-	margin: -90px 40px 20px 0px;
+	margin: -80px 40px 20px 0px;
 }
 /*===================================icons-bg===================================*/
 .balance-bg {
@@ -98,12 +98,13 @@
 	font-size: 30px;
 	font-weight: 200;
 	letter-spacing: 1;
+	margin-top: -15px;
 }
 .total-win {
 	color: #f6f2d4;
 	font-size: 45px;
 	font-weight: 400;
-	margin-top: 15px;
+	margin-top: 10px;
 }
 
 
