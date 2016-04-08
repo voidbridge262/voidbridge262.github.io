@@ -1,29 +1,34 @@
-body {
-	/*width: 385px;*/
-	color: white;
-}
-.pane {
-	background-color: #3b3c3e;
+/*===================================panes-prop===================================*/
+.pane-top-bot {
+	height: 6%;
+	background-color: #3b3c3e; 
 }
 .pane-mid {
 	height: 10%;
+	background-color: #3b3c3e;
 }
-.pane-top-bot {
-	height: 6%;
-}
-.sc-p {
+.reels {
 	height: 39%;
-}
-.sc-controls {
-	height: 39%;
-}
-.m-controls {
 	background-color: black;
 }
+.reels-img {
+	height: 100%;
+	width: 100%;
+}
+.controls {
+	height: 39%;
+	background-color: black;
+}
+.controls-img {
+	height: 100%;
+	width: 100%;
+}
+/*===================================icons-prop===================================*/
 .icons {
-	margin: 3px;
-	/*height: 30px;
-	width: 30px;*/
+	margin: 12px 5px 12px 5px;
+	height: 70px;
+	width: 70px;
+	/*vertical-align: center;*/
 }
 .f-right {
 	float: right;
@@ -32,12 +37,29 @@ body {
 	float: left;
 }
 .left {
-	margin-left: 15px;
+	margin-left: 20px;
 }
 .right {
-	margin-right: 15px;
+	margin-right: 20px;
 }
 .balance {
-	/*height: 29px;*/
-	margin: 3px 3px 3px 15px;
+	height: 30px;
+	width: 100px;
+}
+/*===================================icons-bg===================================*/
+.icon-menu {
+	background-image: url("./images/menu.png");
+	background-size: 70px 70px;
+}
+.icon-expand {
+	background-image: url("./images/expand_arrow_01.png");
+	background-size: 70px 70px;	
+}
+.icon-clock {
+	background-image: url("./images/clock_button_01.png");
+	background-size: 70px 70px;
+}
+.icon-sound {
+	background-image: url("./images/sound_button_01.png");
+	background-size: 70px 70px;
 }
