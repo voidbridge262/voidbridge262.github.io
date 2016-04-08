@@ -1,10 +1,10 @@
 /*===================================panes-prop===================================*/
 .pane-top-bot {
-	height: 6%;
+	height: 5%;
 	background-color: #3b3c3e; 
 }
 .pane-mid {
-	height: 10%;
+	height: 8%;
 	background-color: #3b3c3e;
 }
 .reels {
@@ -16,7 +16,7 @@
 	width: 100%;
 }
 .controls {
-	height: 39%;
+	height: 43%;
 	background-color: black;
 }
 .controls-img {
@@ -25,10 +25,12 @@
 }
 /*===================================icons-prop===================================*/
 .icons {
-	margin: 14px 5px 12px 5px;
-	height: 70px;
-	width: 70px;
-	/*vertical-align: center;*/
+	margin: 10px 10px 10px 5px;
+	height: 60px;
+	width: 60px;
+}
+.space {
+	margin-right: 20px;
 }
 .f-right {
 	float: right;
@@ -43,32 +45,65 @@
 	margin-right: 40px;
 }
 .balance {
-	height: 30px;
-	width: 100px;
+	margin: 10px 15px 10px 40px;
+	height: 70px;
+	width: 400px;
+}
+.info {
+	margin: -90px 40px 20px 0px;
 }
 /*===================================icons-bg===================================*/
+.balance-bg {
+	background-image: url("./images/balance-bg.png");
+	background-size: 400px 70px;
+}
+.icon-info {
+	background-image: url("./images/info_button_01.png");
+	background-size: 60px 60px;
+}
 .icon-menu {
 	background-image: url("./images/menu.png");
-	background-size: 70px 70px;
+	background-size: 60px 60px;
 }
 .icon-expand {
 	background-image: url("./images/expand_arrow_01.png");
-	background-size: 70px 70px;	
+	background-size: 60px 60px;	
 }
 .icon-clock {
 	background-image: url("./images/clock_button_01.png");
-	background-size: 70px 70px;
+	background-size: 60px 60px;
 }
 .icon-sound {
 	background-image: url("./images/sound_button_01.png");
-	background-size: 70px 70px;
+	background-size: 60px 60px;
 }
 /*===================================text prop===================================*/
-.text {
+.bal-text {
+	color: white;
+	font-size: 35px;
+	font-weight: 300;
+	padding: 10px 0px 0px 90px;
+	letter-spacing: 1;
+}
+.game-play-id {
+	color: white;
+	font-size: 28px;
+	color: white;
+	font-weight: 300;
+	letter-spacing: 1;
+	margin: 25px 0px 0px 20px;
+}
+.total-win-lbl{
 	color: white;
 	font-size: 30px;
-	color: white;
 	font-weight: 200;
 	letter-spacing: 1;
-	margin: 30px 0px 0px 30px;
 }
+.total-win {
+	color: #f6f2d4;
+	font-size: 45px;
+	font-weight: 200;
+	margin-top: 15px;
+}
+
+
