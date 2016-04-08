@@ -25,7 +25,7 @@
 }
 /*===================================icons-prop===================================*/
 .icons {
-	margin: 12px 5px 12px 5px;
+	margin: 14px 5px 12px 5px;
 	height: 70px;
 	width: 70px;
 	/*vertical-align: center;*/
@@ -37,10 +37,10 @@
 	float: left;
 }
 .left {
-	margin-left: 20px;
+	margin-left: 40px;
 }
 .right {
-	margin-right: 20px;
+	margin-right: 40px;
 }
 .balance {
 	height: 30px;
@@ -62,4 +62,13 @@
 .icon-sound {
 	background-image: url("./images/sound_button_01.png");
 	background-size: 70px 70px;
+}
+/*===================================text prop===================================*/
+.text {
+	color: white;
+	font-size: 30px;
+	color: white;
+	font-weight: 200;
+	letter-spacing: 1;
+	margin: 30px 0px 0px 30px;
 }
