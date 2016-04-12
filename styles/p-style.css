@@ -77,6 +77,14 @@
 	background-image: url("./images/sound_button_01.png");
 	background-size: 60px 60px;
 }
+.icon-settings {
+	background-image: url("./images/settings.png");
+	background-size: 60px 60px;
+}
+.icon-close {
+	background-image: url("./images/close.png");
+	background-size: 60px 60px;
+}
 /*===================================text prop===================================*/
 .bal-text {
 	color: white;
